@@ -1,0 +1,30 @@
+Nipah Virus ORF Functional Analysis
+====================================
+
+ORF 1
+Length: 2269 aa
+Molecular Weight: 260396.22 Da
+Top Hit: pdb|9COK|A Chain A, RNA-directed RNA polymerase L [Henipavirus nipahense] >pdb|9MZH|A Chain A, RNA-directed RNA polymerase L [Henipavirus nipahense] >pdb|9MZH|H Chain H, RNA-directed RNA polymerase L [Henipavirus nipahense]
+Percent Identity: 99.82%
+E-value: 0.0
+
+ORF 2
+Length: 730 aa
+Molecular Weight: 80603.24 Da
+Top Hit: ref|NP_112022.1| P phosphoprotein [Henipavirus nipahense] >sp|Q9IK91.1| RecName: Full=Phosphoprotein; Short=Protein P [Henipavirus nipahense] >pdb|8ZPV|B Chain B, Phosphoprotein [Henipavirus nipahense] >pdb|8ZPV|C Chain C, Phosphoprotein [Henipavirus nipahense] >pdb|8ZPV|D Chain D, Phosphoprotein [Henipavirus nipahense] >pdb|8ZPV|E Chain E, Phosphoprotein [Henipavirus nipahense] >pdb|9CGI|B Chain B, Phosphoprotein [Henipavirus nipahense] >pdb|9CGI|C Chain C, Phosphoprotein [Henipavirus nipahense] >pdb|9CGI|D Chain D, Phosphoprotein [Henipavirus nipahense] >pdb|9CGI|E Chain E, Phosphoprotein [Henipavirus nipahense] >pdb|9GJT|B Chain B, Phosphoprotein [Henipavirus nipahense] >pdb|9GJT|C Chain C, Phosphoprotein [Henipavirus nipahense] >pdb|9GJT|D Chain D, Phosphoprotein [Henipavirus nipahense] >pdb|9GJT|E Chain E, Phosphoprotein [Henipavirus nipahense] >pdb|9GJU|B Chain B, Phosphoprotein [Henipavirus nipahense] >pdb|9GJU|C Chain C, Phosphoprotein [Henipavirus nipahense] >pdb|9GJU|D Chain D, Phosphoprotein [Henipavirus nipahense] >pdb|9GJU|E Chain E, Phosphoprotein [Henipavirus nipahense] >pdb|9IR3|C Chain C, Phosphoprotein [Henipavirus nipahense] >pdb|9IR3|D Chain D, Phosphoprotein [Henipavirus nipahense] >pdb|9IR3|E Chain E, Phosphoprotein [Henipavirus nipahense] >pdb|9IR3|F Chain F, Phosphoprotein [Henipavirus nipahense] >pdb|9IR3|G Chain G, Phosphoprotein [Henipavirus nipahense] >pdb|9IR4|C Chain C, Phosphoprotein [Henipavirus nipahense] >pdb|9IR4|D Chain D, Phosphoprotein [Henipavirus nipahense] >pdb|9IR4|E Chain E, Phosphoprotein [Henipavirus nipahense] >pdb|9IR4|F Chain F, Phosphoprotein [Henipavirus nipahense] >pdb|9IR4|G Chain G, Phosphoprotein [Henipavirus nipahense] >pdb|9IV9|B Chain B, Phosphoprotein [Henipavirus nipahense] >pdb|9IV9|C Chain C, Phosphoprotein [Henipavirus nipahense] >pdb|9IV9|D Chain D, Phosphoprotein [Henipavirus nipahense] >pdb|9IV9|E Chain E, Phosphoprotein [Henipavirus nipahense] >pdb|9IVA|B Chain B, Phosphoprotein [Henipavirus nipahense] >pdb|9IVA|C Chain C, Phosphoprotein [Henipavirus nipahense] >pdb|9IVA|D Chain D, Phosphoprotein [Henipavirus nipahense] >pdb|9IVA|E Chain E, Phosphoprotein [Henipavirus nipahense] >pdb|9KNZ|B Chain B, Phosphoprotein [Henipavirus nipahense] >pdb|9KNZ|C Chain C, Phosphoprotein [Henipavirus nipahense] >pdb|9KNZ|D Chain D, Phosphoprotein [Henipavirus nipahense] >pdb|9KNZ|E Chain E, Phosphoprotein [Henipavirus nipahense] >gb|XVC12900.1| P [synthetic construct] [synthetic construct] >gb|AAF73378.1| phosphoprotein [Henipavirus nipahense] >gb|AAK50541.1| phosphoprotein [Henipavirus nipahense] >gb|AAK50549.1| phosphoprotein [Henipavirus nipahense] >gb|APT69628.1| P phosphoprotein [Henipavirus nipahense]
+Percent Identity: 100.0%
+E-value: 0.0
+
+ORF 3
+Length: 606 aa
+Molecular Weight: 67569.91 Da
+Top Hit: gb|YAJ44454.1| F/G fusion protein [synthetic construct]
+Percent Identity: 100.0%
+E-value: 0.0
+
+ORF 4
+Length: 588 aa
+Molecular Weight: 65002.5 Da
+Top Hit: gb|AAV80428.1| C-terminal-Au1-tagged F protein [synthetic construct]
+Percent Identity: 100.0%
+E-value: 0.0
